@@ -2,7 +2,10 @@
 
 In dit hoofdstuk vind je informatie over de voorbereiding op de module:
 
-+ voorkennis
-+ hardware
-+ software
-+ lesmaterialen.
+## Voorkennis
+## Inschrijving
+## Hardware
+## Software
+## Lesmaterialen
+## Leeromgeving
+## Voortgang- en afronding
