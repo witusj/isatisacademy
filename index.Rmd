@@ -26,7 +26,10 @@ Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschi
 ### Rollen
 Een Lead Generation team bestaat uit de volgende rollen:
 
-+
-+
++ Online Marketeer
++ Content Marketeer
++ Developer (front -end)
++ Designer
++ Customer Relations
 
 ## Onderwijsteam
