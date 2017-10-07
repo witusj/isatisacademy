@@ -1,0 +1,5 @@
+book_filename: "Studiehandleiding"
+language:
+  ui:
+    chapter_name: "Hoofdstuk "
+delete_merged_file: true

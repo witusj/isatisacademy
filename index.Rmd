@@ -1,0 +1,18 @@
+--- 
+title: "Studiehandleiding Module Lead Generation"
+subtitle: "Isatis Academy"
+author: "Witek ten Hove & Roel Linssen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Deze handleiding beschrijft de didactische opzet en structuur van de module Lead Generation."
+---
+
+# Isatis Academy
+
+Isatis Academy is het opleidings- en onderzoeksintituut van de Isatis Groep. We zijn een open community van didactische en technische experts met een passie voor kennisontwikkeling en -deling. Ons doel is onze interne, zakelijke en maatschappelijke partners te helpen groeien door prachtige innovatie, boeiend onderwijs en laagdrempelige toegang tot kennis te bieden.
