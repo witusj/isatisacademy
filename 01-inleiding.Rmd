@@ -1,2 +1,4 @@
 # Inleiding {#inleiding}
 
+In dit hoofdstuk vind je de doelen, de structuur en het didactisch opzet van de module
+
