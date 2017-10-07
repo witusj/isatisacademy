@@ -13,6 +13,20 @@ github-repo: rstudio/bookdown-demo
 description: "Deze handleiding beschrijft de didactische opzet en structuur van de module Lead Generation."
 ---
 
-# Isatis Academy
+# Welkom
+
+## Isatis Academy
 
 Isatis Academy is het opleidings- en onderzoeksintituut van de Isatis Groep. We zijn een open community van didactische en technische experts met een passie voor kennisontwikkeling en -deling. Ons doel is onze interne, zakelijke en maatschappelijke partners te helpen groeien door prachtige innovatie, boeiend onderwijs en laagdrempelige toegang tot kennis te bieden.
+
+## Module Lead Generations (LG)
+### Voor wie?
+Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschillende impulsen.
+
+### Rollen
+Een Lead Generation team bestaat uit de volgende rollen:
+
++
++
+
+## Onderwijsteam

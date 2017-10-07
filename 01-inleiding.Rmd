@@ -1,4 +1,18 @@
 # Inleiding {#inleiding}
 
-In dit hoofdstuk vind je de doelen, de structuur en het didactisch opzet van de module.
+In dit hoofdstuk vind je de doelen, de organisatie en het didactisch opzet van de module.
+
+## Doelen
+Na voltooing van dit studietraject ben je in staat volwaardig mee te werken binnen een ontwikkelteam voor **lead generation**. Je kunt verschillende rollen binnen het team vervullen en voegt waarde toe door middel van je technische vaardigheden, je inzicht in sociale processen, je professionele netwerk en kennis van je eigen passies en krachten.
+
+## Organisatie
+### Selectie
+### Inschrijving
+### Programma
+#### Level 1 - Fundamentals
+#### Level 2 - Advanced
+#### Level 3 - Professional
+#### Level 4 - Wizzard
+
+## Didactiek
 

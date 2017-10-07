@@ -2,8 +2,7 @@
 
 In dit hoofdstuk vind je informatie over de voorbereiding op de module:
 
-## Voorkennis
-## Inschrijving
+## Basiskennis
 ## Hardware
 ## Software
 ## Lesmaterialen
