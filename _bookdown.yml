@@ -3,3 +3,4 @@ language:
   ui:
     chapter_name: "Hoofdstuk "
 delete_merged_file: true
+output_dir: "book"
