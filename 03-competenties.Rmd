@@ -12,18 +12,21 @@ onlDF <- read.csv2("book/data/online.csv")
 kable(
   onlDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Online Marketeer'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 
 ## Content Marketeer
 
 ```{r, echo=FALSE, message=FALSE}
-library(knitr)
 contDF <- read.csv2("book/data/content.csv")
 kable(
   contDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Content Marketeer'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 
 ## Developer
@@ -34,7 +37,9 @@ devDF <- read.csv2("book/data/developer.csv")
 kable(
   devDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Developer'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 
 ## Designer
@@ -45,7 +50,9 @@ desDF <- read.csv2("book/data/designer.csv")
 kable(
   desDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Designer'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 
 
@@ -57,6 +64,8 @@ crDF <- read.csv2("book/data/cr.csv")
 kable(
   crDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Customer Relations'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 

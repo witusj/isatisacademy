@@ -12,6 +12,13 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 description: "Deze handleiding beschrijft de didactische opzet en structuur van de module Lead Generation."
 ---
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+options(knitr.table.format = "html")
+```
+
 
 # Welkom
 
@@ -31,12 +38,13 @@ Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschi
 Een LG-team bestaat uit de volgende rollen en de bijbehorende verantwoordelijkheden:
 
 ```{r, echo=FALSE, message=FALSE}
-library(knitr)
 rolDF <- read.csv2("book/data/rollen.csv")
 kable(
   rolDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Content Marketeer'
-)
+) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, italic = T, border_right = T)
 ```
 
 ## Onderwijsteam
