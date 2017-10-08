@@ -32,7 +32,7 @@ Een LG-team bestaat uit de volgende rollen:
 
 + Online Marketeer
 + Content Marketeer
-+ Developer (front -end)
++ Developer (front-end)
 + Designer
 + Customer Relations
 
