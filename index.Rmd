@@ -17,14 +17,18 @@ description: "Deze handleiding beschrijft de didactische opzet en structuur van 
 
 ## Isatis Academy
 
-Isatis Academy is het opleidings- en onderzoeksintituut van de Isatis Groep. We zijn een open community van didactische en technische experts met een passie voor kennisontwikkeling en -deling. Ons doel is onze interne, zakelijke en maatschappelijke partners te helpen groeien door prachtige innovatie, boeiend onderwijs en laagdrempelige toegang tot kennis te bieden.
+Isatis Academy is het opleidings- en onderzoeksintituut van de <a href="https://www.isatis.nl/" target="_blank">Isatis Groep</a>. We zijn een open community van didactische en technische experts met een passie voor kennisontwikkeling en -deling. Ons doel is onze interne, zakelijke en maatschappelijke partners te helpen groeien door prachtige innovatie, boeiend onderwijs en laagdrempelige toegang tot kennis te bieden.
 
 ## Module Lead Generations (LG)
+
+### Lead Generation
+Het doel van *Lead Generation* is klanten optimaal ondersteunen bij hun online aankoopbeslissingen.
+
 ### Voor wie?
-Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschillende impulsen.
+Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschillende impulsen. Binnen het LG-team kun je verschillende rollen vervullen. Echter voor een aantal gebieden ben jij de expert en hiermee draag je bij aan de unieke identiteit van het team en jullie product.
 
 ### Rollen
-Een Lead Generation team bestaat uit de volgende rollen:
+Een LG-team bestaat uit de volgende rollen:
 
 + Online Marketeer
 + Content Marketeer

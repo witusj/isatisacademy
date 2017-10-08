@@ -1,5 +1,8 @@
 book_filename: "Studiehandleiding"
 language:
+  label:
+    fig: "FIGUUR "
+    tab: "TABEL "
   ui:
     chapter_name: "Hoofdstuk "
 delete_merged_file: true
