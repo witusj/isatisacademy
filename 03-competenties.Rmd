@@ -2,7 +2,7 @@
 
 In dit hoofdstuk vind je alles over de eindcompetenties van deze module.
 
-Voor iedere teamrol geldt een aparte set van eindcompetenties. Voor optimaal functioneren is het belangrijk dat je tenminste één rol op *Professional* of *Wizzard niveau* ontwikkelt en alle andere op minimaal fundamental.
+Voor iedere teamrol geldt een aparte set van eindcompetenties. Voor optimaal functioneren is het belangrijk dat je tenminste één rol op niveau *Professional* of *Wizzard* ontwikkelt en alle andere op minimaal fundamental.
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Online Marketeer')" id="defaultOpen">Online Marketeer</button>
