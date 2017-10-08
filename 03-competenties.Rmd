@@ -1,3 +1,13 @@
 # Competenties
 
 In dit hoofdstuk vind je alles over de eindcompetenties van deze module.
+
+```{r, echo=FALSE, message=FALSE}
+library(knitr)
+compDF <- read.csv2("book/data/competenties.csv")
+kable(
+  compDF, booktabs = TRUE,
+  caption = 'Overzicht van competenties en levels'
+)
+```
+
