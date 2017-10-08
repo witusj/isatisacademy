@@ -8,9 +8,9 @@ Voor iedere teamrol geldt een aparte set van eindcompetenties. Voor optimaal fun
   
 ```{r, echo=FALSE, message=FALSE}
 library(knitr)
-compDF <- read.csv2("book/data/online.csv")
+onlDF <- read.csv2("book/data/online.csv")
 kable(
-  compDF, booktabs = TRUE,
+  onlDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Online Marketeer'
 )
 ```
@@ -19,9 +19,9 @@ kable(
 
 ```{r, echo=FALSE, message=FALSE}
 library(knitr)
-compDF <- read.csv2("book/data/content.csv")
+contDF <- read.csv2("book/data/content.csv")
 kable(
-  compDF, booktabs = TRUE,
+  contDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Content Marketeer'
 )
 ```
@@ -30,9 +30,9 @@ kable(
  
 ```{r, echo=FALSE, message=FALSE}
 library(knitr)
-compDF <- read.csv2("book/data/developer.csv")
+devDF <- read.csv2("book/data/developer.csv")
 kable(
-  compDF, booktabs = TRUE,
+  devDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Developer'
 )
 ```
@@ -41,9 +41,9 @@ kable(
 
 ```{r, echo=FALSE, message=FALSE}
 library(knitr)
-compDF <- read.csv2("book/data/designer.csv")
+desDF <- read.csv2("book/data/designer.csv")
 kable(
-  compDF, booktabs = TRUE,
+  desDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Designer'
 )
 ```
@@ -53,9 +53,9 @@ kable(
   
 ```{r, echo=FALSE, message=FALSE}
 library(knitr)
-compDF <- read.csv2("book/data/cr.csv")
+crDF <- read.csv2("book/data/cr.csv")
 kable(
-  compDF, booktabs = TRUE,
+  crDF, booktabs = TRUE,
   caption = 'Overzicht van competenties en levels voor Customer Relations'
 )
 ```

@@ -28,12 +28,15 @@ Het doel van *Lead Generation* is klanten optimaal ondersteunen bij hun online a
 Je bent nieuwsgierig naar online gedrag van mensen en hoe ze reageren op verschillende impulsen. Binnen het LG-team kun je verschillende rollen vervullen. Echter voor een aantal gebieden ben jij de expert en hiermee draag je bij aan de unieke identiteit van het team en jullie product.
 
 ### Rollen
-Een LG-team bestaat uit de volgende rollen:
+Een LG-team bestaat uit de volgende rollen met de volgende verantwoordelijkheden:
 
-+ Online Marketeer
-+ Content Marketeer
-+ Developer (front-end)
-+ Designer
-+ Customer Relations
+```{r, echo=FALSE, message=FALSE}
+library(knitr)
+rolDF <- read.csv2("book/data/rollen.csv")
+kable(
+  rolDF, booktabs = TRUE,
+  caption = 'Overzicht van competenties en levels voor Content Marketeer'
+)
+```
 
 ## Onderwijsteam
