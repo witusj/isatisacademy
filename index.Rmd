@@ -40,11 +40,16 @@ Een LG-team bestaat uit de volgende rollen en de bijbehorende verantwoordelijkhe
 ```{r, echo=FALSE, message=FALSE}
 rolDF <- read.csv2("book/data/rollen.csv")
 kable(
-  rolDF, booktabs = TRUE,
-  caption = 'Overzicht van competenties en levels voor Content Marketeer'
+  rolDF[,2], booktabs = TRUE,
+  caption = 'Overzicht van rollen en verantwoordelijkheden'
 ) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
-  column_spec(1, italic = T, border_right = T)
+  group_rows(rolDF[1,1], 1, 2) %>%
+  group_rows(rolDF[3,1], 3, 6) %>%
+  group_rows(rolDF[7,1], 7, 9) %>%
+  group_rows(rolDF[10,1], 10, 10) %>%
+  group_rows(rolDF[11,1], 11, 13)
+  
 ```
 
 ## Onderwijsteam
