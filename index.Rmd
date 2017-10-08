@@ -1,7 +1,7 @@
 --- 
 title: "Studiehandleiding Module Lead Generation"
 subtitle: "Isatis Academy"
-author: "Witek ten Hove & Roel Linssen"
+author: "<a href='https://www.linkedin.com/in/witektenhove/' target='_blank'>Witek ten Hove</a> & <a href='https://www.linkedin.com/in/roellinssen/' target='_blank'>Roel Linssen</a>"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
