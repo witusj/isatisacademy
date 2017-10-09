@@ -26,7 +26,7 @@ options(knitr.table.format = "html")
 
 Isatis Academy is het opleidings- en onderzoeksintituut van de <a href="https://www.isatis.nl/" target="_blank">Isatis Groep</a>. We zijn een open community van didactische en technische experts met een passie voor kennisontwikkeling en -deling. We hebben als doel onze interne, zakelijke en maatschappelijke partners te helpen groeien door prachtige innovatie, boeiend onderwijs en laagdrempelige toegang tot kennis te bieden.
 
-## Module Lead Generations (LG)
+## Module Lead Generation (LG)
 
 ### Lead Generation
 Het doel van *Lead Generation* is klanten optimaal ondersteunen bij hun online aankoopbeslissingen.
